@@ -8,10 +8,8 @@ Right now, I'm diving into the latest UX trends for ZKapps and getting to grips 
 Beyond technology, I'm dedicated to martial arts, where I practice boxing and kickboxing. This discipline enhances my focus and resilience, traits I carry into my professional life
 
 ## 🚀 Looking for New Opportunities:
-I am actively seeking a long-term contract and I am open to consulting roles. With a strong background in leading product development and driving innovation, I aim to contribute to projects that deliver meaningful value and solutions
+I am actively seeking a long-term contract and I am open to consulting roles. With a strong background in product development and team management, I aim to contribute to projects that deliver meaningful value and solutions
 
-## 📫 Contact Me:
-For collaboration or inquiries, you can reach me at krzysztof.wujs@gmail.com
 
 <!--
 **krzysztofwujs/krzysztofwujs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
