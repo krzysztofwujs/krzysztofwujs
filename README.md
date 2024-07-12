@@ -1,8 +1,12 @@
-### Hello, my name is Krzysztof. I hope you enjoy exploring my profile! 🙇
+### Hello, I'm Krzysztof! Welcome to my profile! 🙇
 
-I have some experience in product development and delivery, and I enjoy working on gathering requirements for software products. With a background in systems design, UX/DevX, and full-stack development, I’m currently trying to improve my programming skills by working on JavaScript/TypeScript projects as a hobby and exploring Rust. 🦀
+I specialize in developing and delivering technical products, with a deep understanding of the entire lifecycle. I thrive in system design, requirements gathering, and UX/DevX in full-stack development. My expertise in leading agile teams ensures the consistent delivery of high-quality results, regardless of the technology stack. 
 
-## My current research interests include:
-- ZK interactions in Web3
-- On-Chain gaming and Web3 e-sports
-- Self-sovereign identity and data privacy
+Currently, I'm on sabbatical, expanding my programming skills by learning JavaScript and TypeScript as a hobby, and diving into the world of Rust 🦀.
+
+## 🚀 My current research interests:
+* **Zero Knowledge Proofs and ZK interactions for Web3**
+* **On-Chain gaming and Web3 e-sports**
+* **Self-sovereign identity and data privacy**
+
+Feel free to explore my profile and reach out if you share similar interests or just want to connect! 😄
