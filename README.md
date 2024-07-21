@@ -10,6 +10,6 @@ Currently, I'm on sabbatical, expanding my programming skills by learning JavaSc
 * **Self-sovereign identity and data privacy**
 
 ## ⬇️ Get in touch
-📨 [krzysztof.wujs@gmail.com](mailto:krzysztof.wujs@gmail.com)
+📨 [krzysztof@wujs.xyz](mailto:krzysztof@wujs.xyz)
 
 💼 [My LinkedIn](https://www.linkedin.com/in/wujs/)
