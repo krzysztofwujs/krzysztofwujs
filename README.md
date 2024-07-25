@@ -1,4 +1,4 @@
-### Hello, I'm Krzysztof! Welcome to my profile! 🙇
+### Hello, I'm Krzysztof. Welcome to my profile! 🙇
 
 I specialize in developing and delivering technical products, with a deep understanding of the entire SDLC and full-stack development. I thrive in system design, requirements gathering, with strong focus on UX &or; DevX. My expertise in leading software engineering teams ensures the consistent delivery of high-quality results, regardless of project/product tech-stack. 
 
