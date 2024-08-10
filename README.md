@@ -1,4 +1,4 @@
-### Hello, I'm Krzysztof and welcome to my profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Serif&pause=1000&color=3DB1B088&random=true&width=435&lines=Hello%2C+I'm+Krzysztof)](https://git.io/typing-svg)
 
 My expertise lies in developing technical products that delivers value to end users, with a deep understanding of entire SDLC and full-stack development. I thrive in system design, requirements gathering, with strong focus on UX &or; DevX. 
 
