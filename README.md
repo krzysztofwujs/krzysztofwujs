@@ -6,11 +6,6 @@ I have experience in leading software engineering teams ensures the consistent d
 
 Currently, I'm on sabbatical, expanding my programming skills by learning JavaScript and TypeScript as a hobby, and diving into the world of Rust 🦀
 
-## 📚 My current research interests:
-* **Zero Knowledge Proofs and ZK interactions for Web3**
-* **On-Chain gaming and Web3 e-sports**
-* **Self-sovereign identity and data privacy**
-
 ## ⬇️ Get in touch
 📨 [krzysztof@wujs.xyz](mailto:krzysztof@wujs.xyz)
 
