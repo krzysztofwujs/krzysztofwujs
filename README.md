@@ -4,7 +4,7 @@ My expertise lies in developing technical products that delivers value to end us
 
 I have experience in leading software engineering teams ensures the consistent delivery of high-quality results, regardless of project/product tech-stack. 
 
-Currently, I'm on sabbatical, expanding my programming skills by coding in JavaScript and TypeScript as a hobby, and learning Rust 🦀
+Currently, expanding my programming skills by coding in JavaScript and TypeScript as a hobby, and learning Rust 🦀
 
 ## ⬇️ Get in touch
 📨 [krzysztof@wujs.xyz](mailto:krzysztof@wujs.xyz)
