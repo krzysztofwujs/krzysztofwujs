@@ -11,4 +11,4 @@ Currently, expanding my programming skills by coding in JavaScript and TypeScrip
 
 💼 [My LinkedIn](https://www.linkedin.com/in/wujs/)
 
-The bear in my profile picture was designed by my friend and great artist [Jan Wawrzyniak](https://www.instagram.com/wavvrzyn/)
+my profile picture was designed by my friend and great artist [Jan Wawrzyniak](https://www.instagram.com/wavvrzyn/)
