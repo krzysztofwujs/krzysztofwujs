@@ -10,3 +10,5 @@ Currently, expanding my programming skills by coding in JavaScript and TypeScrip
 📨 [krzysztof@wujs.xyz](mailto:krzysztof@wujs.xyz)
 
 💼 [My LinkedIn](https://www.linkedin.com/in/wujs/)
+
+Avatar designed by a good friend and great artist [Jan Wawrzyniak](https://www.instagram.com/wavvrzyn/)
