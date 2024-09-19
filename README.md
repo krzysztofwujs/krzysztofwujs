@@ -1,3 +1,1 @@
-Hello, I am Krzysztof
-- Interested in learning about me? Visit my [website](https://www.wujs.xyz)
-
+Hello, I am Krzysztof and I am Technical PM - I get things done that I am committed to. 
